@@ -1,0 +1,45 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+header {
+  background: #f0fff0;
+  height: 576px;
+}
+header .navbar-brand img {
+  width: 198px;
+}
+header .left .content {
+  width: 350px;
+}
+header .left p:first-child {
+  color: #fd511a;
+  font-size: 16px;
+  margin: 0;
+}
+header .left .content h1 {
+  font-weight: 700;
+  line-height: 70px;
+  color: black;
+}
+header .left .content h1::after {
+  content: ' any schedule';
+  color: #21b573;
+}
+header.left .content h1 span {
+}
+header .left p {
+  color: #6c6b6b;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 36px;
+}
+header .left .content .my-btn {
+  background-color: #21b573;
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+  border-radius: 100px;
+  padding: 12px 36px;
+  font-style: normal;
+}
