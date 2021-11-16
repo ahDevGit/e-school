@@ -65,14 +65,16 @@ header .left p {
   margin-bottom: 22px;
 }
 .courses .course-bg {
-  /* border: 1px solid lightblue; */
   height: 483px;
-  padding: 20px;
+  padding: 0px;
+}
+.courses .course-content {
   background-color: white;
-  box-shadow: 1px 1px 15px lightgray;
-  border-radius: 20px;
+  box-shadow: 1px 1px 15px whitesmoke;
 }
 .courses .course-bg .course-details img {
   width: 18px;
   height: 20px;
 }
+
+/* Testimonial Section Style */
