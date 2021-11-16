@@ -41,3 +41,26 @@ header .left .content .my-btn {
   padding: 12px 36px;
   font-style: normal;
 }
+
+/* //Portfolio Section Style */
+.portfolio {
+  margin: 42px 0 42px 0;
+}
+.portfolio .portfolio-bg {
+  background-color: #f8fffb;
+  border: 1px solid gray;
+  /* width: 270px; */
+  height: 270px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: 15px solid transparent;
+  background-clip: padding-box;
+}
+.portfolio .portfolio-bg:hover {
+  background-color: white;
+  box-shadow: 1px 1px 15px lightgray;
+}
+.portfolio .portfolio-bg img {
+  width: 66px;
+  margin-bottom: 22px;
+}
