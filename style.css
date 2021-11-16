@@ -83,3 +83,9 @@ article.course-content {
   border-radius: 20px;
 }
 /* Testimonial Section Style */
+
+.testimonial h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+}
