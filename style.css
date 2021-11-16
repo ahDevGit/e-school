@@ -77,4 +77,9 @@ header .left p {
   height: 20px;
 }
 
+article.course-content {
+  margin: 20 px;
+  padding: 20 px;
+  border-radius: 20 px;
+}
 /* Testimonial Section Style */
