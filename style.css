@@ -32,7 +32,7 @@ header .left p {
   font-size: 16px;
   line-height: 36px;
 }
-header .left .content .my-btn {
+.my-btn {
   background-color: #21b573;
   color: white;
   font-size: 15px;
@@ -48,10 +48,10 @@ header .left .content .my-btn {
 }
 .portfolio .portfolio-bg {
   background-color: #f8fffb;
-  border: 1px solid gray;
+  /* border: 1px solid gray; */
   /* width: 270px; */
   height: 270px;
-  border-radius: 20px;
+  border-radius: 30px;
   box-sizing: border-box;
   border: 15px solid transparent;
   background-clip: padding-box;
@@ -63,4 +63,16 @@ header .left .content .my-btn {
 .portfolio .portfolio-bg img {
   width: 66px;
   margin-bottom: 22px;
+}
+.courses .course-bg {
+  /* border: 1px solid lightblue; */
+  height: 483px;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 1px 1px 15px lightgray;
+  border-radius: 20px;
+}
+.courses .course-bg .course-details img {
+  width: 18px;
+  height: 20px;
 }
