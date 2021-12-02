@@ -89,3 +89,10 @@ article.course-content {
   font-size: 36px;
   line-height: 54px;
 }
+
+/* Footer Style */
+
+.footer {
+  background: #282531;
+  color: white;
+}
