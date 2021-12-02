@@ -3,7 +3,7 @@ body {
 }
 header {
   background: #f0fff0;
-  height: 576px;
+  height: auto;
 }
 header .navbar-brand img {
   width: 198px;
